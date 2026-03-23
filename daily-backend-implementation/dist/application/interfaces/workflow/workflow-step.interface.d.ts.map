@@ -1,0 +1,1 @@
+{"version":3,"file":"workflow-step.interface.d.ts","sourceRoot":"","sources":["../../../../src/application/interfaces/workflow/workflow-step.interface.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,eAAe,EAAE,MAAM,8BAA8B,CAAC;AAE/D,MAAM,WAAW,YAAY,CAAC,MAAM,EAAE,OAAO;IAO3C,OAAO,CAAC,KAAK,EAAE,MAAM,EAAE,OAAO,EAAE,eAAe,GAAG,OAAO,CAAC,OAAO,CAAC,CAAC;IAMnE,OAAO,IAAI,MAAM,CAAC;CACnB"}

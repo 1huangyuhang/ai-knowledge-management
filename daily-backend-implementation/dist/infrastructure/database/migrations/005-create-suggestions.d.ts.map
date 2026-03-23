@@ -1,0 +1,1 @@
+{"version":3,"file":"005-create-suggestions.d.ts","sourceRoot":"","sources":["../../../../src/infrastructure/database/migrations/005-create-suggestions.ts"],"names":[],"mappings":"AAKA,OAAO,EAAE,kBAAkB,EAAE,MAAM,kCAAkC,CAAC;AAMtE,wBAAsB,EAAE,CAAC,EAAE,EAAE,kBAAkB,GAAG,OAAO,CAAC,IAAI,CAAC,CA+B9D;AAMD,wBAAsB,IAAI,CAAC,EAAE,EAAE,kBAAkB,GAAG,OAAO,CAAC,IAAI,CAAC,CAIhE"}

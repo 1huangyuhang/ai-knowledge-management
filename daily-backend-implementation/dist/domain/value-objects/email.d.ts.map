@@ -1,0 +1,1 @@
+{"version":3,"file":"email.d.ts","sourceRoot":"","sources":["../../../src/domain/value-objects/email.ts"],"names":[],"mappings":"AAIA,qBAAa,KAAK;IAChB,OAAO,CAAC,QAAQ,CAAC,KAAK,CAAS;gBAMnB,KAAK,EAAE,MAAM;IAUzB,QAAQ,IAAI,MAAM;IASlB,OAAO,CAAC,YAAY;IAUpB,MAAM,CAAC,KAAK,EAAE,KAAK,GAAG,OAAO;IAQ7B,WAAW,IAAI,MAAM;IASrB,SAAS,IAAI,MAAM;CAIpB"}

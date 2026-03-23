@@ -1,0 +1,1 @@
+{"version":3,"file":"workflow.error.d.ts","sourceRoot":"","sources":["../../../src/application/errors/workflow.error.ts"],"names":[],"mappings":"AAEA,qBAAa,aAAc,SAAQ,KAAK;IACtC,OAAO,CAAC,QAAQ,CAAC,QAAQ,CAAS;IAClC,OAAO,CAAC,QAAQ,CAAC,YAAY,CAAS;gBAQ1B,OAAO,EAAE,MAAM,EAAE,YAAY,EAAE,MAAM,EAAE,QAAQ,EAAE,MAAM;IAW5D,WAAW,IAAI,MAAM;IAQrB,eAAe,IAAI,MAAM;CAGjC"}

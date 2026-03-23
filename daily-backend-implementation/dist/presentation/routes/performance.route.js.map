@@ -1,0 +1,1 @@
+{"version":3,"file":"performance.route.js","sourceRoot":"","sources":["../../../src/presentation/routes/performance.route.ts"],"names":[],"mappings":";;AAUA,gEAMC;AAZD,8GAA2G;AAMpG,KAAK,UAAU,0BAA0B,CAAC,QAAyB;IAExE,MAAM,yBAAyB,GAAG,IAAI,qDAAyB,EAAE,CAAC;IAGlE,yBAAyB,CAAC,cAAc,CAAC,QAAQ,CAAC,CAAC;AACrD,CAAC"}

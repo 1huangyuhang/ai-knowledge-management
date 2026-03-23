@@ -1,0 +1,1 @@
+{"version":3,"file":"cognitive-relation-type.d.ts","sourceRoot":"","sources":["../../../src/domain/value-objects/cognitive-relation-type.ts"],"names":[],"mappings":"AAIA,qBAAa,qBAAqB;IAChC,OAAO,CAAC,QAAQ,CAAC,KAAK,CAAS;gBAMnB,KAAK,EAAE,MAAM;IAUzB,QAAQ,IAAI,MAAM;IASlB,OAAO,CAAC,mBAAmB;IAqB3B,MAAM,CAAC,KAAK,EAAE,qBAAqB,GAAG,OAAO;IAQ7C,eAAe,IAAI,MAAM;CAe1B"}
